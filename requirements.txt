@@ -1,0 +1,4 @@
+openai
+discord.py
+fuzzywuzzy
+python-dotenv
